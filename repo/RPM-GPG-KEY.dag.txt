@@ -1,9 +1,3 @@
-#The following public key can be used to verify RPM packages
-#downloaded from  http://dag.wieers.com/apt/  using 'rpm -K'
-#if you have the GNU GPG package.
-#Questions about this key should be sent to:
-#Dag Wieers <dag@wieers.com>
-
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1.2.1 (GNU/Linux)
 
